@@ -1,0 +1,5 @@
+Here, the chemprop score was calculated using:
+ Processed Quant table_Bsub_minimum value 3766
+
+Chemprop was calculated with Attribute hours. The hour (-0.1667) i.e, t0 is neglected while calculating chemprop scores.
+
